@@ -307,8 +307,6 @@ For questions, suggestions, or collaboration opportunities, please open an issue
 
 ---
 
-*Note: Replace placeholders like `https://github.com/yourusername/SegmentSpeaker.git` and `email@example.com` with actual links and contact information.*
-
 ## Contributors
 
 - **Your Name** - *Initial work* - [Your GitHub](https://github.com/yourusername)
