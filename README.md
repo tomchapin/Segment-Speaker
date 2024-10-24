@@ -119,7 +119,7 @@ SegmentSpeaker/
 1. **Clone the repository**
 
    <code>git clone https://github.com/tomchapin/Segment-Speaker.git
-cd SegmentSpeaker</code>
+cd Segment-Speaker</code>
 
 2. **Create a virtual environment**
 
