@@ -303,7 +303,7 @@ We would like to thank the contributors and the open-source community for their 
 
 ## Contact
 
-For questions, suggestions, or collaboration opportunities, please open an issue on GitHub or contact the project maintainers at [email@example.com](mailto:email@example.com).
+For questions, suggestions, or collaboration opportunities, please open an issue on GitHub or contact the project maintainers at [segmentspeaker@phaseinteractive.com](mailto:segmentspeaker@phaseinteractive.com).
 
 ---
 
