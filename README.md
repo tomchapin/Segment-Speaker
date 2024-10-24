@@ -118,7 +118,7 @@ SegmentSpeaker/
 
 1. **Clone the repository**
 
-   <code>git clone https://github.com/yourusername/SegmentSpeaker.git
+   <code>git clone https://github.com/tomchapin/Segment-Speaker.git
 cd SegmentSpeaker</code>
 
 2. **Create a virtual environment**
